@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on AMTI.<br>I'm looking to collaborate on creating new wonderful things<br>I'm looking for help with Python and mobile development.<br>I'm currently learning docker.<br>Ask me about vuejs/Laravel/php<br>I take IT course because I think I can make a cheat engine on my game so I can easily win.<br>
+I'm currently working on AMTI.<br>I'm looking to collaborate on creating new wonderful things.<br>I'm looking for help with Python and mobile development specifically, flutter.<br>I'm currently learning docker.<br>Ask me about VUE.JS/Laravel/PHP<br><br>I take IT course because I think I can make a cheat engine on my game so I can easily win.<br>
 
 
 ## 🌐 Socials:
